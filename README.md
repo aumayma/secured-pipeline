@@ -42,11 +42,5 @@ $ npm run electron-pack
 So you want to contribute? Yay! Great! Fun!
 I love seeing new PRs for todometer. That being said, not every pull request will be merged. The general guidelines I'll follow are:
 
-- Does it make developing todometer easier?
-- Does it help other platforms (Windows, Mac, Linux) work better?
-- Does it fix a bug?
-- Does it break anything?
-- Does it stick to the original goal of todometer (a _simple_, meter-based to-do list)
-- Does it reduce the build size?
-- Is it necessary?
+
 
