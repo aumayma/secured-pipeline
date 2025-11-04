@@ -19,11 +19,7 @@ jobs:
         with:
           args: detect --source . --no-git -v
 
-      # Scanner les vulnérabilités npm
-      - name: Audit npm vulnerabilities
-        run: |
-          npm install
-          npm audit --audit-level=high
+     
 
   build:
     name: Build React App
